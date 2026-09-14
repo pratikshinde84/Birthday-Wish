@@ -1,5 +1,7 @@
-let name = prompt("Enter your name:");
-
-console.log(name);
-alert("Welcome to my website!");
-let result = confirm("Do you want to delete this file?");console.error("Something went wrong!");
+const user={
+    age:20,
+    name:`John Doe`
+}
+console.log(user.age);
+console.log(Object.keys(user));
+console.log(Object.values(user));
