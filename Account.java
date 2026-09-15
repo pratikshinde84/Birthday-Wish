@@ -6,7 +6,7 @@ public class Account {
     public int getBalance(){
         return balance;
     }
-
+    
     public static void main(String[] args) {
         
     }
