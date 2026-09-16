@@ -8,7 +8,7 @@ class Methods{
         return a+b+c;
     }
     public static void main(String args[]){
-        Methods m=new Methods();
+        Methods m=new Methods();   
         m.printName(3,5,3);
     }
 }
